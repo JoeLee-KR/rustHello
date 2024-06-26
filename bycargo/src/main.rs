@@ -1,4 +1,6 @@
-mod hello;
+//
+// Hello~
+//
 
 use std::io;
 
@@ -12,5 +14,10 @@ fn main() {
         .read_line(&mut guess)
         .expect("Failed to read line");
 
-    println!("You guessed: {guess}");
+    println!("You guessed: {}", guess);
+
+    let x = 5;
+    let y = 10;
+
+    println!("x = {x} and y + 2 = {}", y + 2);
 }
