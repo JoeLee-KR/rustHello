@@ -3,13 +3,19 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/cargo_joe/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/joeCargo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/joeCargo/src/chapters/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/joeTheBook/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/joe_thebook/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/joeCargo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/joeCargo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/joeCargo/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/cargo_joe/target" />
+      <excludeFolder url="file://$MODULE_DIR$/joeCargo/src/chapters/target" />
       <excludeFolder url="file://$MODULE_DIR$/joeCargo/target" />
       <excludeFolder url="file://$MODULE_DIR$/joeTheBook/target" />
       <excludeFolder url="file://$MODULE_DIR$/joe_thebook/target" />
+      <excludeFolder url="file://$MODULE_DIR$/joeCargo/target" />
+      <excludeFolder url="file://$MODULE_DIR$/joeCargo/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
