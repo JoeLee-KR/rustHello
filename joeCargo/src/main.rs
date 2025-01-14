@@ -1,3 +1,5 @@
+// this is main.rs
+// 이것은메인in.rs입니다.
 //use crate::ch02::*;
 //use crate::ch04::*;
 //use crate::ch05::*;
